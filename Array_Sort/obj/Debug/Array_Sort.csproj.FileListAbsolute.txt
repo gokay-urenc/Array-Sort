@@ -1,0 +1,20 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Array_Sort\Array_Sort\bin\Debug\Array_Sort.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Array_Sort\Array_Sort\bin\Debug\Array_Sort.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Array_Sort\Array_Sort\bin\Debug\Array_Sort.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Array_Sort\Array_Sort\obj\Debug\Array_Sort.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Array_Sort\Array_Sort\obj\Debug\Array_Sort.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Array_Sort\Array_Sort\obj\Debug\Array_Sort.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Array_Sort\Array_Sort\obj\Debug\Array_Sort.csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Array_Sort\Array_Sort\obj\Debug\Array_Sort.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Array_Sort\Array_Sort\obj\Debug\Array_Sort.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Array_Sort\Array_Sort\obj\Debug\Array_Sort.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Array_Sort\Array_Sort\bin\Debug\Array_Sort.exe.config
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Array_Sort\Array_Sort\bin\Debug\Array_Sort.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Array_Sort\Array_Sort\bin\Debug\Array_Sort.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Array_Sort\Array_Sort\obj\Debug\Array_Sort.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Array_Sort\Array_Sort\obj\Debug\Array_Sort.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Array_Sort\Array_Sort\obj\Debug\Array_Sort.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Array_Sort\Array_Sort\obj\Debug\Array_Sort.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Array_Sort\Array_Sort\obj\Debug\Array_Sort.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Array_Sort\Array_Sort\obj\Debug\Array_Sort.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Array_Sort\Array_Sort\obj\Debug\Array_Sort.pdb
